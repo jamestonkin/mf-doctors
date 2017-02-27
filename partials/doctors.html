@@ -1,0 +1,5 @@
+<ul class="list-group" ng-repeat="doctor in doctors">
+  <li class="list-group-item">
+     <a ng-href="#!/patients/{{doctor.last_name}}">{{doctor.first_name}} {{doctor.last_name}} - {{doctor.speciality}}</a>
+   </li>
+</ul>

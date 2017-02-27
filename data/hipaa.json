@@ -1,0 +1,46 @@
+{
+	"doctors": [{
+		"first_name": "Johan",
+		"last_name": "Ruby",
+		"speciality": "Pediatrics"
+	}, {
+		"first_name": "George",
+		"last_name": "Emerald",
+		"speciality": "Podiatry"
+	}, {
+		"first_name": "Glenda",
+		"last_name": "Amethyst",
+		"speciality": "Orthopedics"
+	}],
+	"patients": [{
+		"first_name": "Margot",
+		"last_name": "Marble",
+		"ailment": "fever",
+		"doctor_id": "ruby"
+	}, {
+		"first_name": "Jason",
+		"last_name": "Slate",
+		"ailment": "cough",
+		"doctor_id": "ruby"
+	}, {
+		"first_name": "Janet",
+		"last_name": "Dolomite",
+		"ailment": "warts",
+		"doctor_id": "emerald"
+	}, {
+		"first_name": "Steven",
+		"last_name": "Limestone",
+		"ailment": "hangnail",
+		"doctor_id": "emerald"
+	}, {
+		"first_name": "Paul",
+		"last_name": "Pumice",
+		"ailment": "disc disease",
+		"doctor_id": "amethyst"
+	}, {
+		"first_name": "Beth",
+		"last_name": "Sandstone",
+		"ailment": "torn ACL",
+		"doctor_id": "amethyst"
+	}]
+}
